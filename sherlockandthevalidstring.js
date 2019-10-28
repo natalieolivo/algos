@@ -2,7 +2,8 @@
 //let input = "abc";
 //let input = "abcc";
 // let input = "aabbcceefghi";
-let input = "abcdefghhgfedecba";
+// let input = "abcdefghhgfedecba";
+let input = "aaaabbcc";
 console.log("input", input);
 function isValid(input) {
 	let letterMap = new Map();
